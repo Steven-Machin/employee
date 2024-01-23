@@ -1,5 +1,3 @@
--- db/seeds.sql
-
 -- Insert sample departments
 INSERT INTO department (name) VALUES
   ('Sales'),
