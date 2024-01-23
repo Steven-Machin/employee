@@ -1,32 +1,28 @@
 # Employee Management System
 
-Hey there! 👋 Welcome to the Employee Management System – a command-line app that makes handling your company's employee database a breeze.
+Welcome to the Employee Management System! This command-line app simplifies your company's employee database management.
 
-## What You Can Do
+## Features
 
-- **View everything:** Departments, roles, and your awesome team.
-- **Add stuff:** Spice things up by adding a new department, role, or another stellar employee.
-- **Give a promotion:** Update an employee's role with just a few clicks.
+- **View Everything:** Explore departments, roles, and your team.
+- **Add Stuff:** Add departments, roles, or employees effortlessly.
+- **Give a Promotion:** Update an employee's role seamlessly.
 
-## Cool Extras
+## Extras
 
-- **Managerial Power:** Feel like a boss by updating employee managers.
-- **Team Detective:** Peek into your team's structure by viewing employees by manager or department.
-- **Spring Cleaning:** Get rid of anything you don't need – departments, roles, or employees.
-- **Money Matters:** Keep tabs on your department's budget with the total utilized budget feature.
+- **Managerial Power:** Elevate your team by updating managers.
+- **Team Detective:** Explore team structure by viewing employees by manager or department.
+- **Spring Cleaning:** Remove unnecessary departments, roles, or employees.
+- **Money Matters:** Keep track of your department's budget.
 
 ## Getting Started
 
-1. **Clone Me:** `git clone https://github.com/your-username/employee-management-system.git`
-2. **Install Magic:** `npm install`
+```bash
+git clone https://github.com/your-username/employee-management-system.git
+npm install
+npm start
+Behind the Scenes
 
-## How to Run
+Check out schema.sql for the behind-the-scenes database
 
-Ready for action? Just type `npm start` in your terminal and follow the friendly prompts. Easy peasy!
-
-## Behind the Scenes
-
-Wondering how it works? Check out [schema.sql](./db/schema.sql) to see the behind-the-scenes database magic.
-
-
-Happy Managing! 
+Happy Managing! 💼✨
